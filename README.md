@@ -1,2 +1,2 @@
-# Snake-Game-Using-Java
-Simple Snake Using Java Programming language
+I have created a Snake board Game using java programming language
+
